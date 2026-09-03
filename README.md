@@ -460,7 +460,7 @@ The monitoring layer is intentionally lightweight.
 
 ## Author
 
-**John Sanjith J**
+**John**
 
 GitHub: https://github.com/JOHNSANJITH
 
