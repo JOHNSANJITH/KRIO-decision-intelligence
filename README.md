@@ -464,8 +464,6 @@ The monitoring layer is intentionally lightweight.
 
 GitHub: https://github.com/JOHNSANJITH
 
-LinkedIn: https://www.linkedin.com/in/johnsanjith/
-
 ---
 
 ## License
