@@ -12,3 +12,5 @@ artifacts/*.json
 backend/.venv/
 frontend/node_modules/
 frontend/dist/
+# Vite cache
+frontend/.vite/
